@@ -1,0 +1,25 @@
+h2{
+    color:orange
+}
+
+body{
+    background-color: darkgreen;
+    color: white;
+    font-family:Arial;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+footer{
+    border-top: 1px solid grey;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-ingês{
+    font-style: italic;
+}
